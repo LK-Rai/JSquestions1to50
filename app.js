@@ -1006,3 +1006,73 @@
 
 // ***********chapter #46 to 48 *******
 
+// function makeInVisible(){
+//     var getImage= document.getElementById("image");
+//     getImage.className="hidden"
+// }
+
+// function makeSize(){
+//     var getImage = document.getElementById("setimage");
+//   getImage.className="size"
+// }
+
+// function scrollToTop() {
+//     element.scrollIntoView(true);
+//   }
+
+// var audio = new Audio();
+// audio.src="./sky.mp3";
+
+// function disappear(){
+//     var disappearImg = document.getElementById("imageId");
+//     disappearImg.className="hide";
+   
+// }
+
+// ***remaining code****
+
+
+// *******chapter #49 ,50 Reading and setting field value*******
+
+// function getValue(){
+//     var getField = document.getElementById("fieldInput");
+//     console.log(getField.value);
+//     getField.value="";
+// }
+
+// function getValue(){
+//     var userInput = document.getElementById("checkValue");
+//     alert(userInput.innerText+" checked")
+// }
+
+    // var user = document.getElementById("checkValue");
+    // user.onclick= function(){
+    //     console.log(this)
+    // }
+
+//    function selVaue(){
+//     var selectedValue =  document.getElementById("list").value;
+// console.log(selectedValue);
+//    }
+
+// function getValue(){
+// var getInput = document.getElementById("fieldValue");
+// console.log(getInput.value);
+// getInput.value="";
+// }
+
+// function checkForLastName() {
+//  if (document.getElementById("lastNameField").value.length === 0) {
+//  alert("Please enter your last name");
+// //  return false;
+//  }
+//  }
+    
+// function onSubmitton(){
+//     // var a=  document.getElementById("lastName");
+//     if(document.getElementById("lastName").value.length === 0)
+//     alert("fill the value")
+// return false;
+// }
+
+
